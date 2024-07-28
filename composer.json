@@ -1,0 +1,13 @@
+{
+    "name": "pawsitiwe/sulu-frontend-validation-bundle",
+    "type": "sulu-form-bundle",
+    "description": "A bundle for Sulu form frontend validation",
+    "autoload": {
+        "psr-4": { "Pawsitiwe\\": "src/" }
+    },
+    "require": {
+        "php": "^8.2",
+        "symfony/framework-bundle": "^6.0",
+        "sulu/form-bundle": "^2.0"
+    }
+}
