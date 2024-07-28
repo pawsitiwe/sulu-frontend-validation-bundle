@@ -2,6 +2,7 @@
     "name": "pawsitiwe/sulu-frontend-validation-bundle",
     "type": "sulu-form-bundle",
     "description": "A bundle for Sulu form frontend validation",
+    "version": "0.1.1",
     "keywords": ["sulu", "cms", "bundle", "validation"],
     "license": "MIT",
     "autoload": {
