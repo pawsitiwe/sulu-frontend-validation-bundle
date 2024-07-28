@@ -1,0 +1,4 @@
+validation_controller_validate_form_field:
+  path: /validate-form-field
+  controller: Pawsitiwe\Controller\ValidationController::validateFormField
+  methods: POST
